@@ -1,6 +1,6 @@
-# Dacon주관: 신용카드 사용자 연체 예측 AI 경진대회 (정형데이터)
+# Dacon주관: 신용카드 사용자 연체 예측 AI 경진대회 
 https://dacon.io/competitions/official/235713/overview/description
- - 대회개요: 신용카드 신청자가 제출한 개인정보를 토대로 신용카드 연체 사용자 예측
+ - 대회개요: 신용카드 신청자가 제출한 개인정보를 토대로 신용카드 연체 사용자 예측 (정형데이터)
  - Metric: Logloss
  - Tool: python
  - Rank: Private (108/714, 상위 15.1%), Public (130/714, 상위 18.2%)
