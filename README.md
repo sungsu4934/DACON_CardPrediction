@@ -41,5 +41,5 @@ https://dacon.io/competitions/official/235713/overview/description
 
 ## 추후 todo
  - lightgbm 뿐만 아니라 xgboost, catboost 등 다른 부스팅 계열 실험(실제 1등 모델의 경우 catboost였음)
- - TabNet에 대한 학습. 비교적 최신 모델인 TabNet에 대한 논문 리뷰
+ - 정형데이터 딥러닝 모델인 TabNet에 대한 학습. 비교적 최신 모델인 TabNet에 대한 논문 리뷰
  - AutoEncoder에 대한 원천적 원리와 더 좋은 feautre를 생성하기 위한 방법 생각
