@@ -32,12 +32,12 @@ https://dacon.io/competitions/official/235713/overview/description
  - 시행착오로 활용된 모델: Lightgbm, DNN
  - 시행착오 정리
   > 1) AutoEncoder를 활용한 Feature engineering
-  > 2) TargetEncoding 활용
+  > 2) TargetEncoding 활용한 Feature engineering
   > 3) Lightgbm의 변수를 한 두개씩 바꾸면서 모델을 형성한 후 스태킹 앙상블
-  > 4) TabNet 등의 정형 데이터에 적합한 딥러닝 기술 구현 
+  > 4) DNN을 활용한 Modeling
   
 ## 총평
- - 여러 Feature Engineering과 딥러닝, 스태킹 앙상블 등을 활용해보았으나 결론적으로 lgbm 단독 모델이 더 우세한 성능
+ - 여러 Feature Engineering과 딥러닝, 스태킹 앙상블 등을 활용해보았으나 결론적으로 Lightgbm 단독 모델이 더 우세한 성능
 
 ## 추후 todo
  - lightgbm 뿐만 아니라 xgboost, catboost 등 다른 부스팅 계열 실험(실제 1등 모델의 경우 catboost였음)
